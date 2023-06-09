@@ -1,4 +1,4 @@
-# Instagram Clone
+# Connect World
 
 ## Introduction
 The Instagram Clone is a web application that replicates the core features and functionality of the popular social media platform Instagram. This README file provides an overview of the Instagram Clone, including its purpose, features, and usage.
