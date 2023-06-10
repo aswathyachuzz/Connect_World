@@ -9,7 +9,7 @@ The purpose of the Instagram Clone is to provide users with a platform to share 
 ## Features
 1. User Registration and Authentication: The Instagram Clone allows users to register and create accounts using their email addresses or social media accounts. It provides authentication mechanisms to ensure secure access to user profiles and data.
 
-2. Profile Creation and Editing: Users can create and edit their profiles by providing personal information,profile pictures, and a bio. They can customize their profiles to reflect their personalities and interests.
+2. Profile Creation and Editing: Users can create and edit their profiles by providing personal information,profile pictures, and a bio.They can customize their profiles to reflect their personalities and interests.
 
 3. Post Creation and Sharing: Users can create posts by uploading photos or videos from their devices or using the built-in camera functionality. They can add captions, apply filters, and tag other users or locations. Users can share their posts with their followers or make them public.
 
