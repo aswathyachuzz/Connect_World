@@ -4,7 +4,7 @@
 The Instagram Clone is a web application that replicates the core features and functionality of the popular social media platform Instagram. This README file provides an overview of the Instagram Clone, including its purpose, features, and usage.
 
 ## Purpose
-The purpose of the Instagram Clone is to provide users with a platform to share photos and videos, interact with other users, and explore a personalized feed of content. The clone aims to replicate the key features of Instagram, allowing users to experience a similar social media experience in a different context or for learning and development purposes.
+The purpose of the Instagram Clone is to provide users with a platform to share photos and videos, interact with other users,and explore a personalized feed of content. The clone aims to replicate the key features of Instagram, allowing users to experience a similar social media experience in a different context or for learning and development purposes.
 
 ## Features
 1. User Registration and Authentication: The Instagram Clone allows users to register and create accounts using their email addresses or social media accounts. It provides authentication mechanisms to ensure secure access to user profiles and data.
