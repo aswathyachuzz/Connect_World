@@ -13,7 +13,7 @@ The purpose of the Instagram Clone is to provide users with a platform to share 
 
 3. Post Creation and Sharing: Users can create posts by uploading photos or videos from their devices or using the built-in camera functionality. They can add captions, apply filters, and tag other users or locations. Users can share their posts with their followers or make them public.
 
-4. News Feed: The app displays a personalized news feed that showcases posts from users the current user follows. The feed updates in real-time, allowing users to see the latest content from their connections.
+4. News Feed: The app displays a personalized news feed that showcases posts from users the current user follows.The feed updates in real-time, allowing users to see the latest content from their connections.
 
 5. Likes and Comments: Users can like posts to show appreciation for the content. They can also leave comments to engage in conversations and discussions with other users.
 
